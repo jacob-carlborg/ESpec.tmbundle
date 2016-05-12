@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>qbbo@zr.pbz</string>
+	<key>contactName</key>
+	<string>Jacob Carlborg</string>
+	<key>description</key>
+	<string>ESpec is a BDD testing framework for Elixir.</string>
+	<key>name</key>
+	<string>ESpec</string>
+	<key>uuid</key>
+	<string>71EF8875-9B30-4E28-A3B8-02DEBE2C10AB</string>
+</dict>
+</plist>
