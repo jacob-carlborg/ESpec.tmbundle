@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>it "${1:does something}"${2: do
+  $0
+end}</string>
+	<key>name</key>
+	<string>it (does something)</string>
+	<key>scope</key>
+	<string>source.elixir.espec</string>
+	<key>tabTrigger</key>
+	<string>it</string>
+	<key>uuid</key>
+	<string>BFC2A769-0F33-4B48-8E72-7DA7D63D630A</string>
+</dict>
+</plist>
